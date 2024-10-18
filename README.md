@@ -1,26 +1,17 @@
-<<<<<<< HEAD
-# PacmanAI
+Project Title: PacmanAI
+Student Name: Ahmad Rafi Faqiri
+UID: u1503285
+Project Link: PacmanAI Project Overview
 
-Project Link :
-http://ai.berkeley.edu/project_overview.html
+Project Sections Covered:
+Search Algorithms:
+This section involves the implementation of depth-first, breadth-first, uniform cost, and A* search algorithms. These algorithms are utilized to address navigation and traveling salesman problems within the Pacman environment.
 
-Sections Of the Project Covered are:
+Multi-Agent Search:
+Classic Pacman is conceptualized as both an adversarial and a stochastic search problem. In this part of the project, I implemented multi-agent minimax and expectimax algorithms, along with the design of evaluation functions.
 
-Search: 
-Implement depth-first, breadth-first, uniform cost, and A* search algorithms. These algorithms are used to solve navigation and traveling salesman problems in the Pacman world.
+Reinforcement Learning:
+Here, I developed both model-based and model-free reinforcement learning algorithms. These algorithms were applied to various scenarios, including the AIMA textbook's Gridworld, Pacman, and a simulated crawling robot.
 
-
-Multi-Agent Search: 
-Classic Pacman is modeled as both an adversarial and a stochastic search problem. Implement multiagent minimax and expectimax algorithms, as well as designing evaluation functions.
-
-
-Reinforcement Learning: 
-Implement model-based and model-free reinforcement learning algorithms, applied to the AIMA textbook's Gridworld, Pacman, and a simulated crawling robot.
-
-
-Ghostbusters: 
-Probabilistic inference in a hidden Markov model tracks the movement of hidden ghosts in the Pacman world. Implement exact inference using the forward algorithm and approximate inference via particle filters.
-=======
-# UC-Berkeley-AI-Pacman-Project
-Artificial Intelligence project designed by UC Berkeley to develop game agents for Pacman using search algorithms and reinforcement learning
->>>>>>> b747ae092562a96c8c2ac70466fc10707a0f6865
+Ghostbusters:
+This section focuses on probabilistic inference within a hidden Markov model to track the movement of concealed ghosts in the Pacman world. I implemented exact inference using the forward algorithm and approximate inference through particle filters.
