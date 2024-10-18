@@ -1,7 +1,7 @@
-Project Title: PacmanAI
+**Project Title: PacmanAI
 Student Name: Ahmad Rafi Faqiri
 UID: u1503285
-Project Link: PacmanAI Project Overview
+Project Link: PacmanAI Project Overview**
 
 Project Sections Covered:
 Search Algorithms:
